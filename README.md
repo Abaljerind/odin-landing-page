@@ -1,0 +1,1 @@
+This is my second project while I learn frontend developer on The Odin Project. The title of this project is odin-landing-page. It only consist of HTML & CSS flexbox from what I've learned from The CSS Foundations & Flexbox lesson.
