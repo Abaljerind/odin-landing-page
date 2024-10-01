@@ -158,3 +158,27 @@ a {
   text-align: center;
   padding: 0 28px;
 }
+
+/* quote */
+.quote {
+  padding: 80px 0;
+  background-color: var(--secondary-header-link-text-quote-bg);
+}
+
+.quote .container blockquote {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.quote .container blockquote p:first-child {
+  font-size: 36px;
+  font-weight: 300;
+  color: var(--information-header);
+}
+
+.quote .container blockquote p:last-child {
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--dark-bg-quote-text);
+  text-align: end;
+}
